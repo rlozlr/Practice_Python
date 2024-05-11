@@ -6,6 +6,7 @@
 '''
 
 import random
+
 randomNum = random.randint(1, 1000)
 tryCnt = 0
 gameFlag = True
