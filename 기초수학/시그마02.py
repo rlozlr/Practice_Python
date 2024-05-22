@@ -1,5 +1,5 @@
 numA = int(input('a1 입력: '))
-numR = int(input('공차 입력: '))
+numR = int(input('공비 입력: '))
 numN = int(input('n 입력: '))
 
 val = 0
