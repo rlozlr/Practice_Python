@@ -28,5 +28,5 @@ if __name__ == '__main__':
 
     if choice == 1:
         run_maxMod01()
-    elif choice ==2:
+    elif choice == 2:
         run_maxMod02()

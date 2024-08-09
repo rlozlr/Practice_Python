@@ -18,7 +18,7 @@ class MaxAlgorithm:
         return self.maxNum
 
     def getMaxNum(self):
-        self.setMaxNums()
+        self.setMaxNum()
         return self.maxNum
 
     def setMaxNumCnt(self):
@@ -30,4 +30,4 @@ class MaxAlgorithm:
 
     def getMaxNumCnt(self):
         self.setMaxNumCnt()
-        return  self.maxNumCnt
+        return self.maxNumCnt
